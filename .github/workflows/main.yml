@@ -31,4 +31,4 @@ jobs:
         with:
           evaluation-data: ${{ steps.cypress.outputs.result }}
           environment: staging
-          pr-number: ${{ steps.cypress.outputs.pr-number }}
+          pr-number: ${{ github.event.pr-number }}
