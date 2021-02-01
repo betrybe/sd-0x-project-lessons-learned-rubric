@@ -21,6 +21,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
   - [Durante o desenvolvimento](#durante-o-desenvolvimento)
 - [Como desenvolver](#como-desenvolver)
+  - [Linter](#linter)
   - [Avaliador Automático](#avaliador-automático)
 - [Requisitos](#requisitos)
   - [Dicas](#dicas)
